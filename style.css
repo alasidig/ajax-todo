@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+    max-width: 600px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 1rem;
+    border: 2px solid;
+}
+input{
+    padding: 1rem;
+}
